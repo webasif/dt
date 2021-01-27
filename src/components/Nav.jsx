@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom'
 const Nav = () => {
     return (
         <nav>
+            <p>WEBSITE UNDER CONSTRUCTION !!!</p>
             <ul class="nav-links">
                 <Link to='/'>
                     <li>Home</li>
