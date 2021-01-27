@@ -3,7 +3,7 @@ import { Icon } from 'semantic-ui-react'
 import styled from 'styled-components'
 
 const Footer = () => (
-    <div style={{ height: '80px', backgroundColor: 'black', color: 'white' }}>
+    <div className='footer' style={{ height: '80px', backgroundColor: 'black', color: 'white' }}>
         <Span1>
             <Paragraph> © All rights reserved</Paragraph>
         </Span1>

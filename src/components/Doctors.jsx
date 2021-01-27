@@ -3,7 +3,7 @@ import styled from 'styled-components'
 //import { Image } from 'semantic-ui-react'
 const Doctors = () => {
     return (
-        <div style={{ margin: '70px 0 140px 0' }}>
+        <div className='doctors' style={{ margin: '70px 0 140px 0' }}>
             <Paragraph1><b>Experienced Doctors</b></Paragraph1>
             <Paragraph2><b>Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore</b></Paragraph2>
             <Span>

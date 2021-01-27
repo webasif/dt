@@ -26,6 +26,9 @@ display: flex;
 justify-content:space-around;
 text-align: start;
 margin-top:15rem;
+
+@media screen and (min-width: 280px) and (max-width:1279px){
+    width: 290%;
 `
 const Paragraph1 = styled.p`
 font-size:1.2rem;

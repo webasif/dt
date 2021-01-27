@@ -48,6 +48,9 @@ display:flex;
 justify-content:space-evenly;
 margin-top:10rem;
 text-align:left;
+@media screen and (min-width: 280px) and (max-width:1279px){
+    width: 290%;
+}
 `
 
 const Span1 = styled.span``

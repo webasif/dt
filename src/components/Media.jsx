@@ -3,7 +3,7 @@ import { Grid, Image, Segment } from 'semantic-ui-react'
 import styled from 'styled-components'
 
 const Media = () => (
-    <div>
+    <div className='blog' >
         <Paragraph><b>Our Blog</b></Paragraph>
         <Grid style={{ margin: '0 190px 100px 190px' }} stackable columns={2}>
             <Grid.Column>

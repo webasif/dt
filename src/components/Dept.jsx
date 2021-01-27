@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 const Dept = () => {
     return (
-        <div style={{ marginTop: '8rem' }}>
+        <div className='dept' style={{ marginTop: '8rem' }}>
             <Paragraph><b>Our Department</b></Paragraph>
             <Span>
                 <Button>

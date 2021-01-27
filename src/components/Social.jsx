@@ -4,7 +4,7 @@ import { Icon } from 'semantic-ui-react'
 
 const Social = () => {
     return (
-        <div>
+        <div className='social'>
             <Span>
                 <Span1>
                     <Icon name='facebook square' size='big' />

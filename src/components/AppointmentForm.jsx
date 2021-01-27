@@ -14,7 +14,7 @@ const timeOptions = [
 ]
 
 const AppointmentForm = () => (
-  <div style={{
+  <div className='contact' style={{
     marginBottom: '150px',
     display: 'flex', backgroundImage: `url("/images/kb.jpg")`, backgroundSize: 'cover', backgroundRepeat: 'no-repeat'
   }}>

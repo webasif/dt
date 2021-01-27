@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 
 const Address = () => (
-    <div style={{ display: 'flex', justifyContent: 'space-around', backgroundColor: '#f3f3f3', padding: '100px 30px 60px 30px' }}>
+    <div className='address' style={{ display: 'flex', justifyContent: 'space-around', backgroundColor: '#f3f3f3', padding: '100px 30px 60px 30px' }}>
         <Span1>
             <Paragraph>lorem ipsum lorem ipsum</Paragraph>
             <Paragraph>lorem ipsum lorem ipsum</Paragraph>

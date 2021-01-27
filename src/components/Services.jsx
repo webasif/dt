@@ -3,7 +3,7 @@ import { Grid, Image, Icon } from 'semantic-ui-react'
 import styled from 'styled-components'
 const Services = () => {
     return (
-        <div style={{ marginTop: '10rem' }}>
+        <div className="services" style={{ marginTop: '10rem' }}>
             <Paragraph1><b>Our Services</b></Paragraph1>
             <Grid container columns={3}>
                 <Grid.Column>
@@ -40,6 +40,7 @@ const Services = () => {
                     </Span>
                 </Grid.Column>
             </Grid >
+
         </div >
     );
 }
