@@ -32,13 +32,25 @@ nav a{
   align-items: center;
   list-style: none;
 }
+/*
+@media screen and (min-width: 280px) and (max-width:1279px){
+  body {
+    width: 100%;
+    overflow-x: hidden;
+ }
+
+}
+
 @media screen and (min-width: 280px) and (max-width:1279px){
   .services{
     width:290%;
   }
+
 }
+
 @media screen and (min-width: 280px) and (max-width:1279px){
   .dept{
+
     width:290%;
   }
 }
@@ -54,6 +66,7 @@ nav a{
 }
 @media screen and (min-width: 280px) and (max-width:1279px){
   .blog{
+
     width:290%;
   }
 }
@@ -67,3 +80,4 @@ nav a{
     width:290%;
   }
 }
+*/

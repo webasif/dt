@@ -39,6 +39,7 @@ font-size:4rem;
 margin:0;
 `
 const Paragraph3 = styled.p`
+font-size:1.3rem;
 `
 const Span1 = styled.span`
 padding: 8rem 0 0 5rem;`
